@@ -1,0 +1,27 @@
+{
+  "scale": {
+    "x": 30,
+    "y": 30,
+    "z": 30
+  },
+  "materialSlots": {
+    "Plaster_Structure_White": "mat-03768bca-751b-4f24-8a17-20e8fc862f6d",
+    "Plaster_Vault_Ceiling": "mat-f4a6bb22-08ce-45d9-9443-bc18269f50b5",
+    "Plaster_Vault_Accent": "mat-1656f22b-e724-454e-a5e0-e4d3521b44dc",
+    "Metal_Chair_Frame": "mat-a4800375-de8c-4f5b-a526-6a0e1cce0aaf",
+    "Fabric_Cushion_Stack": "mat-6ef46197-7f7f-42bb-aae5-85358bc471bb",
+    "Concrete_Floor": "mat-eea03ee6-2cd4-4cdb-bf47-23fc0c2d1759",
+    "Glass_Window_Glazing": "mat-9e153674-f1dc-4b82-8995-c8a3d9a1ea1f",
+    "Concrete_Mezzanine_Floor": "mat-e545fcc4-8262-459a-a948-cc58796adc9e",
+    "Railing_Mesh_Cutout": "mat-1287c337-4da6-44c2-82a5-7889c7680b5f",
+    "Metal_Black_Gloss": "mat-c05a9911-c398-4f94-91ac-3b904d739e92",
+    "Plastic_Printer": "mat-a2a4beab-5e78-424a-9ec4-d6c14a47f3a7",
+    "Rug_Weave": "mat-b1a29eb7-3890-4f55-a251-fed8ae505a62",
+    "Wood_Sideboard": "mat-b39391fb-b399-474c-b502-4c6cbcd70b77",
+    "Fabric_Daybed_Sofa": "mat-d937fef2-ff04-4b9c-a9e9-7064a0569fdc",
+    "Leather_Sofa": "mat-7f619b74-ff90-4c3d-88cb-dfc1674ca21a",
+    "Speaker_Cabinet": "mat-6ea5d9a3-a630-434a-8c41-c04a4fbdc416",
+    "Metal_Stove_CastIron": "mat-018ce735-9aab-426f-bfd0-c9ad727ac46d",
+    "Brick_Wall": "mat-bfe9248f-0a90-4597-b3b8-ae843164668b"
+  }
+}

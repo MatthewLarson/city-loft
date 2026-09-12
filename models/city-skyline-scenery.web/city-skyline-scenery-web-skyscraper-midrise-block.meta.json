@@ -1,0 +1,7 @@
+{
+  "materialSlots": {
+    "Concrete_Rooftop": "mat-0fefef89-56ac-4f6f-b9e3-80be54a6228f",
+    "Facade_Midrise_Block": "mat-a4af2a1c-d666-47f1-a0e5-494a6e29d757",
+    "Facade_Highrise_Tower": "mat-ff7fd8f4-1da0-41b5-a92b-40725a079b1f"
+  }
+}

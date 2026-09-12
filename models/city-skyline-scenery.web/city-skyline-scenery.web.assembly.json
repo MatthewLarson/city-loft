@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "source": "models/city-skyline-scenery.web.glb",
+  "parts": [
+    {
+      "id": "skyscraper-highrise-tower",
+      "label": "Skyscraper_Highrise_Tower",
+      "model": "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-highrise-tower.glb",
+      "position": {
+        "x": -42.06955337524414,
+        "y": -8.981669425964355,
+        "z": -34.375030517578125
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "id": "skyscraper-midrise-block",
+      "label": "Skyscraper_Midrise_Block",
+      "model": "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-midrise-block.glb",
+      "position": {
+        "x": -67.66802787780762,
+        "y": -10.571252822875977,
+        "z": -26.68636703491211
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "id": "skyscraper-panel-block-01",
+      "label": "Skyscraper_Panel_Block_01",
+      "model": "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-panel-block-01.glb",
+      "position": {
+        "x": -88.09451293945312,
+        "y": -15.463642120361328,
+        "z": -27.169384002685547
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "id": "skyscraper-panel-block-02",
+      "label": "Skyscraper_Panel_Block_02",
+      "model": "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-panel-block-02.glb",
+      "position": {
+        "x": -88.09451293945312,
+        "y": -15.463642120361328,
+        "z": -27.169384002685547
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "id": "skyscraper-wide-slab",
+      "label": "Skyscraper_Wide_Slab",
+      "model": "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-wide-slab.glb",
+      "position": {
+        "x": -70.0135726928711,
+        "y": -14.302224159240723,
+        "z": 2.7598628997802734
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ]
+}
