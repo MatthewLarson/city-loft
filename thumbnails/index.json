@@ -1,0 +1,486 @@
+{
+  "version": 1,
+  "rendererVersion": 1,
+  "entries": {
+    "@materials/mat-018ce735-9aab-426f-bfd0-c9ad727ac46d": {
+      "inputHash": "fd2390023358d44c",
+      "file": "thumbnails/@materials/mat-018ce735-9aab-426f-bfd0-c9ad727ac46d.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-03768bca-751b-4f24-8a17-20e8fc862f6d": {
+      "inputHash": "d34604f0f11bdb82",
+      "file": "thumbnails/@materials/mat-03768bca-751b-4f24-8a17-20e8fc862f6d.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-0fefef89-56ac-4f6f-b9e3-80be54a6228f": {
+      "inputHash": "ec0b6934c5046549",
+      "file": "thumbnails/@materials/mat-0fefef89-56ac-4f6f-b9e3-80be54a6228f.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-1287c337-4da6-44c2-82a5-7889c7680b5f": {
+      "inputHash": "f5537f62b900c023",
+      "file": "thumbnails/@materials/mat-1287c337-4da6-44c2-82a5-7889c7680b5f.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-1656f22b-e724-454e-a5e0-e4d3521b44dc": {
+      "inputHash": "ea84f710a8be6d73",
+      "file": "thumbnails/@materials/mat-1656f22b-e724-454e-a5e0-e4d3521b44dc.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-273de9bb-f0f6-4b85-839d-68ff6c3413ec": {
+      "inputHash": "61863e2a63bf2c2e",
+      "file": "thumbnails/@materials/mat-273de9bb-f0f6-4b85-839d-68ff6c3413ec.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-6ea5d9a3-a630-434a-8c41-c04a4fbdc416": {
+      "inputHash": "c198605f79c83ae0",
+      "file": "thumbnails/@materials/mat-6ea5d9a3-a630-434a-8c41-c04a4fbdc416.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-6ef46197-7f7f-42bb-aae5-85358bc471bb": {
+      "inputHash": "7e7ba614cc92b7a3",
+      "file": "thumbnails/@materials/mat-6ef46197-7f7f-42bb-aae5-85358bc471bb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-7f619b74-ff90-4c3d-88cb-dfc1674ca21a": {
+      "inputHash": "576afa8ebbd80463",
+      "file": "thumbnails/@materials/mat-7f619b74-ff90-4c3d-88cb-dfc1674ca21a.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-9e153674-f1dc-4b82-8995-c8a3d9a1ea1f": {
+      "inputHash": "05870010784944db",
+      "file": "thumbnails/@materials/mat-9e153674-f1dc-4b82-8995-c8a3d9a1ea1f.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-a2a4beab-5e78-424a-9ec4-d6c14a47f3a7": {
+      "inputHash": "23958fd60d335127",
+      "file": "thumbnails/@materials/mat-a2a4beab-5e78-424a-9ec4-d6c14a47f3a7.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-a4800375-de8c-4f5b-a526-6a0e1cce0aaf": {
+      "inputHash": "8402fd1fbdaf7409",
+      "file": "thumbnails/@materials/mat-a4800375-de8c-4f5b-a526-6a0e1cce0aaf.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-a4af2a1c-d666-47f1-a0e5-494a6e29d757": {
+      "inputHash": "2663a3224dee3b31",
+      "file": "thumbnails/@materials/mat-a4af2a1c-d666-47f1-a0e5-494a6e29d757.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-b1a29eb7-3890-4f55-a251-fed8ae505a62": {
+      "inputHash": "4731d68af45a6381",
+      "file": "thumbnails/@materials/mat-b1a29eb7-3890-4f55-a251-fed8ae505a62.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-b39391fb-b399-474c-b502-4c6cbcd70b77": {
+      "inputHash": "7d0e3adfb05aabc1",
+      "file": "thumbnails/@materials/mat-b39391fb-b399-474c-b502-4c6cbcd70b77.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-bfe9248f-0a90-4597-b3b8-ae843164668b": {
+      "inputHash": "595c4be62360ee27",
+      "file": "thumbnails/@materials/mat-bfe9248f-0a90-4597-b3b8-ae843164668b.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-c05a9911-c398-4f94-91ac-3b904d739e92": {
+      "inputHash": "c4dcea7d0f7ce238",
+      "file": "thumbnails/@materials/mat-c05a9911-c398-4f94-91ac-3b904d739e92.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-ceiling": {
+      "inputHash": "220ee3bdf8d37625",
+      "file": "thumbnails/@materials/mat-ceiling.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-d937fef2-ff04-4b9c-a9e9-7064a0569fdc": {
+      "inputHash": "9d3bf6b58b873fbe",
+      "file": "thumbnails/@materials/mat-d937fef2-ff04-4b9c-a9e9-7064a0569fdc.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-default": {
+      "inputHash": "eccf03f485688ce9",
+      "file": "thumbnails/@materials/mat-default.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-e545fcc4-8262-459a-a948-cc58796adc9e": {
+      "inputHash": "844c053be19d7a51",
+      "file": "thumbnails/@materials/mat-e545fcc4-8262-459a-a948-cc58796adc9e.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-e654780b-886c-4921-a97f-29df28c8db0b": {
+      "inputHash": "0e6ac124e01c73f4",
+      "file": "thumbnails/@materials/mat-e654780b-886c-4921-a97f-29df28c8db0b.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-eea03ee6-2cd4-4cdb-bf47-23fc0c2d1759": {
+      "inputHash": "bda75cf0b9e35304",
+      "file": "thumbnails/@materials/mat-eea03ee6-2cd4-4cdb-bf47-23fc0c2d1759.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-f4a6bb22-08ce-45d9-9443-bc18269f50b5": {
+      "inputHash": "ab3fab2d56577175",
+      "file": "thumbnails/@materials/mat-f4a6bb22-08ce-45d9-9443-bc18269f50b5.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-ff7fd8f4-1da0-41b5-a92b-40725a079b1f": {
+      "inputHash": "ff04d028a66e40e1",
+      "file": "thumbnails/@materials/mat-ff7fd8f4-1da0-41b5-a92b-40725a079b1f.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-floor": {
+      "inputHash": "4faeb6a28ac0884c",
+      "file": "thumbnails/@materials/mat-floor.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-wall": {
+      "inputHash": "8b1c33f064be0752",
+      "file": "thumbnails/@materials/mat-wall.webp",
+      "width": 256,
+      "height": 256
+    },
+    "DaySkyHDRI066A_1K_TONEMAPPED.webp": {
+      "inputHash": "50e41191545ddae5",
+      "file": "thumbnails/DaySkyHDRI066A_1K_TONEMAPPED.webp.webp",
+      "width": 256,
+      "height": 128
+    },
+    "media/cover-thumb.webp": {
+      "inputHash": "7ae34622ba7dc2f0",
+      "file": "thumbnails/media/cover-thumb.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover.webp": {
+      "inputHash": "48344de66e072c78",
+      "file": "thumbnails/media/cover.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/screenshot-0.webp": {
+      "inputHash": "302b3c2fdb1acfb0",
+      "file": "thumbnails/media/screenshot-0.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "models/city-skyline-scenery.web.glb": {
+      "inputHash": "cdd5e6589614954e",
+      "file": "thumbnails/models/city-skyline-scenery.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-highrise-tower.glb": {
+      "inputHash": "173b2e72e96aad8f",
+      "file": "thumbnails/models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-highrise-tower.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-midrise-block.glb": {
+      "inputHash": "3fd3bf334f20b5a2",
+      "file": "thumbnails/models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-midrise-block.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-panel-block-01.glb": {
+      "inputHash": "ec1346e077a1907d",
+      "file": "thumbnails/models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-panel-block-01.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-panel-block-02.glb": {
+      "inputHash": "cc9e304d64ecce27",
+      "file": "thumbnails/models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-panel-block-02.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-wide-slab.glb": {
+      "inputHash": "7ad156ee5dff1d5b",
+      "file": "thumbnails/models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-wide-slab.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/city-skyline-scenery.web/city-skyline-scenery.web.assembly.json": {
+      "inputHash": "a8d2fc3fbbcb472a",
+      "file": "thumbnails/models/city-skyline-scenery.web/city-skyline-scenery.web.assembly.json.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/loft-interior-scenery.web.glb": {
+      "inputHash": "3dcb5b6697442b91",
+      "file": "thumbnails/models/loft-interior-scenery.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/DaySkyHDRI066A_1K_TONEMAPPED.jpg": {
+      "inputHash": "e53a57d1900ce522",
+      "file": "thumbnails/originals/DaySkyHDRI066A_1K_TONEMAPPED.jpg.webp",
+      "width": 256,
+      "height": 128
+    },
+    "textures/city-skyline-scenery-web/t-concrete-rooftop-basecolor-0b2aea45.webp": {
+      "inputHash": "874cfe559ef7a031",
+      "file": "thumbnails/textures/city-skyline-scenery-web/t-concrete-rooftop-basecolor-0b2aea45.webp.webp",
+      "width": 128,
+      "height": 256
+    },
+    "textures/city-skyline-scenery-web/t-facade-highrise-tower-basecolor-e6634b8b.webp": {
+      "inputHash": "2c5f4bca66c83c4a",
+      "file": "thumbnails/textures/city-skyline-scenery-web/t-facade-highrise-tower-basecolor-e6634b8b.webp.webp",
+      "width": 192,
+      "height": 256
+    },
+    "textures/city-skyline-scenery-web/t-facade-midrise-block-basecolor-80ac5d00.webp": {
+      "inputHash": "af3adf7da75b4d4b",
+      "file": "thumbnails/textures/city-skyline-scenery-web/t-facade-midrise-block-basecolor-80ac5d00.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/city-skyline-scenery-web/t-facade-panel-block-basecolor-9c85f14f.webp": {
+      "inputHash": "1a2e0a78d4d3dd62",
+      "file": "thumbnails/textures/city-skyline-scenery-web/t-facade-panel-block-basecolor-9c85f14f.webp.webp",
+      "width": 256,
+      "height": 171
+    },
+    "textures/city-skyline-scenery-web/t-facade-wide-slab-basecolor-eb5f8262.webp": {
+      "inputHash": "7f31e7f3d6361c49",
+      "file": "thumbnails/textures/city-skyline-scenery-web/t-facade-wide-slab-basecolor-eb5f8262.webp.webp",
+      "width": 205,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-brick-wall-basecolor-55f0ce02.webp": {
+      "inputHash": "2f713ac85b93f944",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-brick-wall-basecolor-55f0ce02.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-brick-wall-normal-3dc7c980.webp": {
+      "inputHash": "01a80b82bc66ea1a",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-brick-wall-normal-3dc7c980.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-brick-wall-roughness-800b215d.webp": {
+      "inputHash": "ea078d18433fb886",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-brick-wall-roughness-800b215d.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-chair-wire-basecolor-7a79e47b.webp": {
+      "inputHash": "05b4ced1524bcb6c",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-chair-wire-basecolor-7a79e47b.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-chair-wire-metallic-t-chair-wire-roughness-4577a0f0.webp": {
+      "inputHash": "9b92c2a011f32ae3",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-chair-wire-metallic-t-chair-wire-roughness-4577a0f0.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-chair-wire-normal-ae0778d5.webp": {
+      "inputHash": "d511c8e13e9a08b9",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-chair-wire-normal-ae0778d5.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-concrete-floor-basecolor-6ec075dd.webp": {
+      "inputHash": "c38b367f947da4f7",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-concrete-floor-basecolor-6ec075dd.webp.webp",
+      "width": 131,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-concrete-mezzanine-basecolor-c873212c.webp": {
+      "inputHash": "7ade2c30606b799a",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-concrete-mezzanine-basecolor-c873212c.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-concrete-mezzanine-normal-e38db216.webp": {
+      "inputHash": "e9e298a3a9ffe655",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-concrete-mezzanine-normal-e38db216.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-cushion-stack-basecolor-f560bc16.webp": {
+      "inputHash": "4445662c929c46ad",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-cushion-stack-basecolor-f560bc16.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-cushion-stack-metallic-t-cushion-stack-roughness-62c98ba7.webp": {
+      "inputHash": "1250f742973eca4b",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-cushion-stack-metallic-t-cushion-stack-roughness-62c98ba7.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-cushion-stack-normal-222c0a67.webp": {
+      "inputHash": "2a72af7326299dc4",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-cushion-stack-normal-222c0a67.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-glass-glazing-normal-4b8d00dd.webp": {
+      "inputHash": "d24b3a0873eb8795",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-glass-glazing-normal-4b8d00dd.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-plaster-structure-basecolor-dca7142e.webp": {
+      "inputHash": "43a3303935e4f979",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-plaster-structure-basecolor-dca7142e.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-plaster-structure-normal-c2ceeaca.webp": {
+      "inputHash": "10d161a47f1e6f78",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-plaster-structure-normal-c2ceeaca.webp.webp",
+      "width": 131,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-plaster-vault-accent-basecolor-1d010f6b.webp": {
+      "inputHash": "5824d43e1778e340",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-plaster-vault-accent-basecolor-1d010f6b.webp.webp",
+      "width": 128,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-plaster-vault-basecolor-72cb7e90.webp": {
+      "inputHash": "e4c0e1baa526ada6",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-plaster-vault-basecolor-72cb7e90.webp.webp",
+      "width": 128,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-printer-basecolor-1f947721.webp": {
+      "inputHash": "0454cecf5a8331b5",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-printer-basecolor-1f947721.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-printer-metallic-t-printer-roughness-e10c0517.webp": {
+      "inputHash": "2aacf867623f5531",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-printer-metallic-t-printer-roughness-e10c0517.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-printer-normal-866d2ea9.webp": {
+      "inputHash": "aa89c40a2e1aad9e",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-printer-normal-866d2ea9.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-railing-mesh-basecolor-alpha-7a729af5.webp": {
+      "inputHash": "5ec5350509d97bf3",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-railing-mesh-basecolor-alpha-7a729af5.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-rug-weave-basecolor-42b69f2a.webp": {
+      "inputHash": "c8eddf9bdc30d7db",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-rug-weave-basecolor-42b69f2a.webp.webp",
+      "width": 144,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-sideboard-basecolor-68a7aa54.webp": {
+      "inputHash": "02825cc2c352fa7b",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-sideboard-basecolor-68a7aa54.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-sideboard-metallic-t-sideboard-roughness-abb853bf.webp": {
+      "inputHash": "474d6667c5ca0cdc",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-sideboard-metallic-t-sideboard-roughness-abb853bf.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-sideboard-normal-66c76ecd.webp": {
+      "inputHash": "c3cd81256e50ab95",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-sideboard-normal-66c76ecd.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-sofa-daybed-basecolor-a48c03fb.webp": {
+      "inputHash": "758828804a30786d",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-sofa-daybed-basecolor-a48c03fb.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-sofa-daybed-metallic-t-sofa-daybed-roughness-fa51bd4c.webp": {
+      "inputHash": "dc34226e0bc911af",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-sofa-daybed-metallic-t-sofa-daybed-roughness-fa51bd4c.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-sofa-daybed-normal-310560e3.webp": {
+      "inputHash": "7a60f47fbd44bbf6",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-sofa-daybed-normal-310560e3.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-sofa-leather-basecolor-057e9bcc.webp": {
+      "inputHash": "c88c4b780b672071",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-sofa-leather-basecolor-057e9bcc.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-sofa-leather-metallic-t-sofa-leather-roughness-3e714613.webp": {
+      "inputHash": "b9c6926c19f87618",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-sofa-leather-metallic-t-sofa-leather-roughness-3e714613.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-sofa-leather-normal-ee571d03.webp": {
+      "inputHash": "6f80615f68f703d7",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-sofa-leather-normal-ee571d03.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-speaker-cabinet-basecolor-b67c5cf8.webp": {
+      "inputHash": "9c1f43ae2a34a95e",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-speaker-cabinet-basecolor-b67c5cf8.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-stove-basecolor-4f880423.webp": {
+      "inputHash": "96f5a34bf52b7967",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-stove-basecolor-4f880423.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-stove-metallic-t-stove-roughness-5c547c6f.webp": {
+      "inputHash": "276adf2891341dab",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-stove-metallic-t-stove-roughness-5c547c6f.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/loft-interior-scenery-web-t-stove-normal-af627c64.webp": {
+      "inputHash": "8c50d9374cc9415b",
+      "file": "thumbnails/textures/loft-interior-scenery-web-t-stove-normal-af627c64.webp.webp",
+      "width": 256,
+      "height": 256
+    }
+  }
+}
