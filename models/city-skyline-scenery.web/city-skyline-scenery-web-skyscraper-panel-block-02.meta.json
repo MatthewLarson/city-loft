@@ -1,7 +1,6 @@
 {
   "materialSlots": {
     "Concrete_Rooftop": "mat-0fefef89-56ac-4f6f-b9e3-80be54a6228f",
-    "Facade_Panel_Block": "mat-273de9bb-f0f6-4b85-839d-68ff6c3413ec",
-    "Facade_Highrise_Tower": "mat-ff7fd8f4-1da0-41b5-a92b-40725a079b1f"
+    "Facade_Panel_Block": "mat-273de9bb-f0f6-4b85-839d-68ff6c3413ec"
   }
 }

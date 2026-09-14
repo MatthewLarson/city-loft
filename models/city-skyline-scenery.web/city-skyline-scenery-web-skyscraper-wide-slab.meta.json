@@ -1,7 +1,6 @@
 {
   "materialSlots": {
     "Facade_Midrise_Block": "mat-a4af2a1c-d666-47f1-a0e5-494a6e29d757",
-    "Facade_Wide_Slab": "mat-e654780b-886c-4921-a97f-29df28c8db0b",
-    "Facade_Highrise_Tower": "mat-e654780b-886c-4921-a97f-29df28c8db0b"
+    "Facade_Wide_Slab": "mat-e654780b-886c-4921-a97f-29df28c8db0b"
   }
 }

@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "city-loft",
   "name": "City Loft",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "room-pack",
   "entry": {
     "setup": "setup.json"
@@ -27,7 +27,6 @@
     "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-wide-slab.glb",
     "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-wide-slab.meta.json",
     "models/city-skyline-scenery.web/city-skyline-scenery.web.assembly.json",
-    "models/city-skyline-scenery.web/city-skyline-scenery.web.assembly.meta.json",
     "models/loft-interior-scenery.meta.json",
     "models/loft-interior-scenery.web.glb",
     "models/loft-interior-scenery.web.meta.json",
