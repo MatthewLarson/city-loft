@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "city-loft",
   "name": "City Loft",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "type": "room-pack",
   "entry": {
     "setup": "setup.json"
@@ -27,9 +27,11 @@
     "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-wide-slab.glb",
     "models/city-skyline-scenery.web/city-skyline-scenery-web-skyscraper-wide-slab.meta.json",
     "models/city-skyline-scenery.web/city-skyline-scenery.web.assembly.json",
+    "models/city-skyline-scenery.web/city-skyline-scenery.web.assembly.meta.json",
     "models/loft-interior-scenery.meta.json",
     "models/loft-interior-scenery.web.glb",
     "models/loft-interior-scenery.web.meta.json",
+    "skies/sunset_jhbcentral_2k.hdr",
     "textures/city-skyline-scenery-web/t-concrete-rooftop-basecolor-0b2aea45.webp",
     "textures/city-skyline-scenery-web/t-facade-highrise-tower-basecolor-e6634b8b.webp",
     "textures/city-skyline-scenery-web/t-facade-midrise-block-basecolor-80ac5d00.webp",
@@ -331,6 +333,25 @@
       "attestation": {
         "termsVersion": "2026-09-07.1",
         "acceptedAt": "2026-09-12T22:09:07.631Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-989e75c7-9003-4c51-a2d8-a5f184f6e51b",
+      "paths": [
+        "skies/sunset_jhbcentral_2k.hdr"
+      ],
+      "origin": "third-party",
+      "title": "Joburg Central Sunset",
+      "creator": "Dimitrios Savva & Greg Zaal",
+      "creatorUrl": "https://polyhaven.com/all?a=Dimitrios%20Savva",
+      "sourceUrl": "https://polyhaven.com/a/sunset_jhbcentral",
+      "licenseName": "CC0 1.0 (Public Domain)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "recordedAt": "2026-09-18T22:10:18.148Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-18T22:10:18.148Z",
         "signedName": "Matt Larson"
       }
     }
