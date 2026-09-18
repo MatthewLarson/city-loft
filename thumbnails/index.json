@@ -225,7 +225,7 @@
       "height": 256
     },
     "models/city-skyline-scenery.web/city-skyline-scenery.web.assembly.json": {
-      "inputHash": "a8d2fc3fbbcb472a",
+      "inputHash": "e5cc87651990810f",
       "file": "thumbnails/models/city-skyline-scenery.web/city-skyline-scenery.web.assembly.json.webp",
       "width": 256,
       "height": 256
@@ -239,6 +239,12 @@
     "originals/DaySkyHDRI066A_1K_TONEMAPPED.jpg": {
       "inputHash": "e53a57d1900ce522",
       "file": "thumbnails/originals/DaySkyHDRI066A_1K_TONEMAPPED.jpg.webp",
+      "width": 256,
+      "height": 128
+    },
+    "skies/sunset_jhbcentral_2k.hdr": {
+      "inputHash": "201dfd2a742521ec",
+      "file": "thumbnails/skies/sunset_jhbcentral_2k.hdr.webp",
       "width": 256,
       "height": 128
     },

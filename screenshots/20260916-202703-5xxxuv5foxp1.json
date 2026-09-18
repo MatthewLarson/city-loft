@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "camera": {
+    "position": [
+      9.059186935424805,
+      5.715186595916748,
+      -9.138590812683105
+    ],
+    "rotation": [
+      156.80000151889976,
+      44.74999842910247,
+      -179.99999974194537
+    ],
+    "fov": 46
+  },
+  "width": 3828,
+  "height": 1892,
+  "tier": "ultra",
+  "visibility": {
+    "dom-ui": false,
+    "cursor": false,
+    "selection-outlines": false,
+    "transform-gizmos": false,
+    "editor-helpers": false,
+    "seat-areas": false,
+    "seat-labels": false,
+    "hand-zones": false,
+    "snap-points": false,
+    "zones": false,
+    "vector-lines": false,
+    "debug-overlays": false,
+    "drag-ghosts": false,
+    "presence-avatars": false,
+    "tooltips": false,
+    "mod-world-ui": false,
+    "text-labels": false,
+    "decals": false
+  },
+  "capturedAt": "2026-09-16T20:27:03.190Z"
+}
