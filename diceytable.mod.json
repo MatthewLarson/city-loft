@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "city-loft",
   "name": "City Loft",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "room-pack",
   "entry": {
     "setup": "setup.json"
@@ -12,6 +12,8 @@
     "media/cover-thumb.webp",
     "media/cover.webp",
     "media/screenshot-0.webp",
+    "media/screenshot-1.webp",
+    "media/screenshot-2.webp",
     "models/building-node-0-010.meta.json",
     "models/building.meta.json",
     "models/city-skyline-scenery.web.glb",
@@ -354,11 +356,57 @@
         "acceptedAt": "2026-09-18T22:10:18.148Z",
         "signedName": "Matt Larson"
       }
+    },
+    {
+      "id": "credit-b9c55118-2d81-4939-8f2d-7ae9b92f6a90",
+      "paths": [
+        "media/screenshot-1.webp"
+      ],
+      "origin": "own-work",
+      "title": "City Loft 1",
+      "recordedAt": "2026-09-19T01:23:31.201Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-19T01:23:31.201Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-5381ee4c-ba85-4229-ac95-f2ac98b2d8f9",
+      "paths": [
+        "media/screenshot-2.webp"
+      ],
+      "origin": "own-work",
+      "title": "City Loft 2",
+      "recordedAt": "2026-09-19T01:23:56.832Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-19T01:23:56.832Z",
+        "signedName": "Matt Larson"
+      }
     }
   ],
   "slug": "city-loft",
   "coverImage": "media/cover.webp",
   "screenshots": [
+    {
+      "path": "media/screenshot-1.webp",
+      "crop": {
+        "x": 0.05377706004665257,
+        "y": 0,
+        "w": 0.8786717752234993,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-2.webp",
+      "crop": {
+        "x": 0.10198642643783715,
+        "y": 0,
+        "w": 0.8786717752234993,
+        "h": 1
+      }
+    },
     {
       "path": "media/screenshot-0.webp",
       "crop": {
