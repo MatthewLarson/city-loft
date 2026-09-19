@@ -188,6 +188,18 @@
       "width": 256,
       "height": 144
     },
+    "media/screenshot-1.webp": {
+      "inputHash": "97c9a0b2f0e91ad3",
+      "file": "thumbnails/media/screenshot-1.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-2.webp": {
+      "inputHash": "8303646f77649cd6",
+      "file": "thumbnails/media/screenshot-2.webp.webp",
+      "width": 256,
+      "height": 144
+    },
     "models/city-skyline-scenery.web.glb": {
       "inputHash": "cdd5e6589614954e",
       "file": "thumbnails/models/city-skyline-scenery.web.glb.webp",
