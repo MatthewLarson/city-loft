@@ -2,13 +2,12 @@
   "schemaVersion": "1.0",
   "id": "city-loft",
   "name": "City Loft",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "room-pack",
   "entry": {
     "setup": "setup.json"
   },
   "assets": [
-    "DaySkyHDRI066A_1K_TONEMAPPED.webp",
     "media/cover-thumb.webp",
     "media/cover.webp",
     "media/screenshot-0.webp",
